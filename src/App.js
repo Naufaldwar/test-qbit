@@ -65,6 +65,10 @@ function App() {
       <p>komentar : terdapat id yang sama</p>
       <h1>Case 2 </h1>
       <p>Jumlah Comment : {countCommentContent(comments)}</p>
+
+      <a href="https://github.com/Naufaldwar/landing-page" target="_blank">
+        <h1>Case 3 </h1>
+      </a>
     </div>
   );
 }
